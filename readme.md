@@ -1,3 +1,7 @@
+[Algorytmy na liczbach](/Liczbowe)
+
+
+
 1. [Algorytm Euklidesa](Liczbowe/euklides.py)
 2. Wyszukiwanie binarne
 3. Sito Eratostenesa
