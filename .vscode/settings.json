@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.pyx": "python",
+        "algorithm": "cpp"
+    }
+}

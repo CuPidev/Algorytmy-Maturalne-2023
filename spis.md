@@ -1,0 +1,38 @@
+1.  Algorytm Euklidesa
+2. Wyszukiwanie binarne
+3. Sito Eratostenesa
+4. Sortowanie przez scalanie
+5. Wyznaczanie miejsc zerowych funkcji metodą połowienia
+6. Przybliżanie wartości pierwiastka kwadratowego
+7. Schemat Hornera
+8. Szybkie potęgowanie
+==============================================================
+1. Rozkładanie na czynniki pierwsze
+2. Działania w innych systemach liczbowych
+3. Znajdowanie podciągów (najdłuższego spójnego, spójnego o największej sumie)
+4. Odwrotna notacja polska
+==============================================================
+Objaśnia, a także porównuje, wykorzystując przy tym przykłady problemów i algorytmów.
+1. Wyszukiwanie liniowe i przez połowienie (do znajdowania
+elementów w zbiorze, sortowania przez wstawianie, przybliżonego
+rozwiązywania równań)
+2. Rekurencja
+3. Dziel i zwyciężaj
+4. Podejście zachłanne
+5. Programowanie dynamiczne
+6. Stos, Kolejka, Lista (ONP)
+==============================================================
+1. Badanie pierwszości liczby
+2. Systemy liczbowe (zamiany)
+3. Działania na ułamkach z wykorzystaniem NWD i NWW
+4. Porównywanie tekstów
+5. Wyszukiwanie wzorca w tekście metodą naiwną
+6. Szyfrowanie tekstu metodą Cezara i przestawieniową
+7. Porządkowanie ciągu liczb przez wstawianie i metodą bąbelkową
+8. Obliczanie wartości elementów ciągu metodą iteracyjną i rekurencyjną, w tym ciągu Fibonacciego
+9. Metoda wstępująca i zstępująca
+==============================================================
+1. Baza złożona z wielu tabel
+2. Formułowanie kwerend
+3. Tworzenie i modyfikowanie formularze oraz raporty
+4. SQL do wyszukiwania i modyfikowania informacji
