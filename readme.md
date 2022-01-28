@@ -1,4 +1,4 @@
-1.  Algorytm Euklidesa
+1. [Algorytm Euklidesa](Liczbowe/euklides.py)
 2. Wyszukiwanie binarne
 3. Sito Eratostenesa
 4. Sortowanie przez scalanie
