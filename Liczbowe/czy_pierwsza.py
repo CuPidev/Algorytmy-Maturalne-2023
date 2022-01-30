@@ -8,10 +8,11 @@
 """Funkcja sprawdza czy podana liczba jest liczbą pierwszą, metodą prostą."""
 
 from math import sqrt
+from math import ceil, floor
 
 
 def czy_pierwsza(liczba: float) -> bool:
-    for i in range(2, int(sqrt(liczba)) + 1):
+    for i in range(2, int(sqrt(liczba) + 1)):
         if liczba % i == 0:
             return False
     return True
