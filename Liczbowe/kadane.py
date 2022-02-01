@@ -24,5 +24,5 @@ def maximum_sum_subarray(array):
     return max_sum, max_start, max_end
 
 
-testowa_tablica = [-100, 2, -3, -8, -11, -12, -19, -62, -3, -1, -2]
+testowa_tablica = [100, 2, -3, -8, 11, -12, 19, 62, -3, -1, -2]
 print(maximum_sum_subarray(testowa_tablica))
