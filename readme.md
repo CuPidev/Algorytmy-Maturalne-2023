@@ -5,7 +5,7 @@
 4. Sortowanie przez scalanie
 5. Wyznaczanie miejsc zerowych funkcji metodą połowienia
 6. Przybliżanie wartości pierwiastka kwadratowego
-7. Schemat Hornera
+7. [Schemat Hornera](Liczbowe/horner.py)
 8. [Szybkie potęgowanie](Liczbowe/szybkie_potegowanie.py)
 ==============================================================
 1. Rozkładanie na czynniki pierwsze
