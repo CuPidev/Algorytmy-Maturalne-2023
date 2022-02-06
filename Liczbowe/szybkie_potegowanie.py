@@ -18,3 +18,6 @@ def szybkie_potegowanie_iteracyjne(podstawa, wykladnik):
         podstawa = podstawa * podstawa
         wykladnik = wykladnik // 2
     return x
+
+
+print(szybkie_potegowanie_iteracyjne(2, 24))

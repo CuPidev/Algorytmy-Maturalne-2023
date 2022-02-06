@@ -1,4 +1,4 @@
-def szuaknie_binarne(arr, t):
+def wyszukiwanie_binarne(arr, t):
     left = 0
     right = len(arr) - 1
     while left <= right:
@@ -11,4 +11,4 @@ def szuaknie_binarne(arr, t):
             right = mid - 1
 
 
-print(szuaknie_binarne([1, 2, 3, 4, 5, 6, 7, 8, 9, 10], 5))
+print(wyszukiwanie_binarne([1, 2, 3, 4, 5, 6, 7, 8, 9, 10], 5))
