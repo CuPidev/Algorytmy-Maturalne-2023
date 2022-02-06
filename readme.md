@@ -1,10 +1,7 @@
-[Algorytmy na liczbach](/Liczbowe)
-
-
-
+# [Algorytmy na liczbach](/Liczbowe)
 1. [Algorytm Euklidesa](Liczbowe/euklides.py)
-2. Wyszukiwanie binarne
-3. Sito Eratostenesa
+2. [Wyszukiwanie binarne](Szukanie/binarne.py)
+3. [Sito Eratostenesa](Liczbowe/sito_eratostenesa.py)
 4. Sortowanie przez scalanie
 5. Wyznaczanie miejsc zerowych funkcji metodą połowienia
 6. Przybliżanie wartości pierwiastka kwadratowego
