@@ -9,15 +9,17 @@
 8. [Szybkie potęgowanie](Liczbowe/szybkie_potegowanie.py)
 9. [Badanie pierwszości liczby](Liczbowe/czy_pierwsza.py)
 ==============================================================
+# [Algorytmy Wyszukiwania](/Szukanie)
+1. Wyszukiwanie liniowe i przez połowienie (do znajdowania
+elementów w zbiorze, sortowania przez wstawianie, przybliżonego
+rozwiązywania równań)
 1. Rozkładanie na czynniki pierwsze
 2. Działania w innych systemach liczbowych
 3. Znajdowanie podciągów (najdłuższego spójnego, spójnego o największej sumie)
 4. Odwrotna notacja polska
 ==============================================================
 Objaśnia, a także porównuje, wykorzystując przy tym przykłady problemów i algorytmów.
-1. Wyszukiwanie liniowe i przez połowienie (do znajdowania
-elementów w zbiorze, sortowania przez wstawianie, przybliżonego
-rozwiązywania równań)
+
 2. Rekurencja
 3. Dziel i zwyciężaj
 4. Podejście zachłanne
