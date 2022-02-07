@@ -7,6 +7,7 @@
 6. Przybliżanie wartości pierwiastka kwadratowego
 7. [Schemat Hornera](Liczbowe/horner.py)
 8. [Szybkie potęgowanie](Liczbowe/szybkie_potegowanie.py)
+9. [Badanie pierwszości liczby](Liczbowe/czy_pierwsza.py)
 ==============================================================
 1. Rozkładanie na czynniki pierwsze
 2. Działania w innych systemach liczbowych
@@ -23,7 +24,7 @@ rozwiązywania równań)
 5. Programowanie dynamiczne
 6. Stos, Kolejka, Lista (ONP)
 ==============================================================
-1. Badanie pierwszości liczby
+
 2. Systemy liczbowe (zamiany)
 3. Działania na ułamkach z wykorzystaniem NWD i NWW
 4. Porównywanie tekstów
