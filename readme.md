@@ -21,6 +21,8 @@
 # [Algorytmy Sortowania](/Sortowanie/)
 1. [Metodą bąbelkową](Sortowanie/babelkowe.py)
 
+# [Algorytmy na tekstach](/Na Tekstach/)
+1. [Porównywanie tekstów]()
 
 ==============================================================
 Objaśnia, a także porównuje, wykorzystując przy tym przykłady problemów i algorytmów.
