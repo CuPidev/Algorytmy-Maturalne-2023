@@ -12,7 +12,7 @@ def wyszukanie_wzorca_naiwne(array, target):
             p = p+1
     return -1
 
-testowy_tekst = "piotrbrzeczyszczykiewicz"
-testowy_wzorzec = "pio"
+testowy_tekst = "piotrbrzeczyszczykiewiczxc"
+testowy_wzorzec = "xc"
 print(wyszukanie_wzorca_naiwne(testowy_tekst, testowy_wzorzec))
     

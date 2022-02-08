@@ -7,6 +7,8 @@
 6. [Schemat Hornera](Liczbowe/horner.py)
 7. [Szybkie potęgowanie](Liczbowe/szybkie_potegowanie.py)
 8. [Badanie pierwszości liczby](Liczbowe/czy_pierwsza.py)
+9. Badanie położenia punktu względem prostej
+10. Badanie przynależności punktu do odcinka
 ==============================================================
 ## [Algorytmy Wyszukiwania](/Wyszukiwanie)
 1. [Wyszukiwanie liniowe](/Wyszukiwanie/liniowe.py) 
@@ -23,7 +25,12 @@
 ## [Algorytmy na tekstach](/Na_tekstach/)
 1. [Porównywanie tekstów](Na_tekstach/porownanie_tekstow.py)
 2. [Wyszukiwanie wzorca metodą naiwną](Na_tekstach/wzorzec_metoda_naiwna.py)
-
+## [Algorytmy na zbiorach](/Zbiory/)
+1. Znajdowanie lidera
+2. Znajdowanie idola
+3. Wyszukiwanie jednocześnie elementu najmniejszego i największego
+## [Rekurencja]
+1. Tworzenie fraktali; zbiór Cantora, drzewo binarne, dywan Sierpińskiego, płatek Kocha
 ==============================================================
 Objaśnia, a także porównuje, wykorzystując przy tym przykłady problemów i algorytmów.
 1. Rekurencja
