@@ -1,4 +1,4 @@
-# [Algorytmy na liczbach](/Liczbowe)
+## [Algorytmy na liczbach](/Liczbowe)
 1. [Algorytm Euklidesa](Liczbowe/euklides.py)
 2. [Wyszukiwanie binarne](Wyszukiwanie/binarne.py)
 3. [Sito Eratostenesa](Liczbowe/sito_eratostenesa.py)
@@ -9,7 +9,7 @@
 8. [Szybkie potęgowanie](Liczbowe/szybkie_potegowanie.py)
 9. [Badanie pierwszości liczby](Liczbowe/czy_pierwsza.py)
 ==============================================================
-# [Algorytmy Wyszukiwania](/Wyszukiwanie)
+## [Algorytmy Wyszukiwania](/Wyszukiwanie)
 1. [Wyszukiwanie liniowe](/Wyszukiwanie/liniowe.py) 
 2. [Wyszukiwanie przez połowienie/binarne](Wyszukiwanie/binarne.py) 
 (do znajdowania elementów w zbiorze, sortowania przez wstawianie, przybliżonego rozwiązywania równań)
@@ -18,10 +18,10 @@
 5. Znajdowanie podciągów (najdłuższego spójnego, spójnego o największej sumie)
 6. Odwrotna notacja polska
 
-# [Algorytmy Sortowania](/Sortowanie/)
+## [Algorytmy Sortowania](/Sortowanie/)
 1. [Metodą bąbelkową](Sortowanie/babelkowe.py)
 
-# [Algorytmy na tekstach](/Na_tekstach/)
+## [Algorytmy na tekstach](/Na_tekstach/)
 1. [Porównywanie tekstów](Na_tekstach/porownanie_tekstow.py)
 
 ==============================================================
