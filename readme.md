@@ -1,6 +1,6 @@
 # [Algorytmy na liczbach](/Liczbowe)
 1. [Algorytm Euklidesa](Liczbowe/euklides.py)
-2. [Wyszukiwanie binarne](Szukanie/binarne.py)
+2. [Wyszukiwanie binarne](Wyszukiwanie/binarne.py)
 3. [Sito Eratostenesa](Liczbowe/sito_eratostenesa.py)
 4. Sortowanie przez scalanie
 5. Wyznaczanie miejsc zerowych funkcji metodą połowienia
@@ -9,10 +9,10 @@
 8. [Szybkie potęgowanie](Liczbowe/szybkie_potegowanie.py)
 9. [Badanie pierwszości liczby](Liczbowe/czy_pierwsza.py)
 ==============================================================
-# [Algorytmy Wyszukiwania](/Szukanie)
-1. Wyszukiwanie liniowe i przez połowienie (do znajdowania
-elementów w zbiorze, sortowania przez wstawianie, przybliżonego
-rozwiązywania równań)
+# [Algorytmy Wyszukiwania](/Wyszukiwanie)
+1. [Wyszukiwanie liniowe](/Wyszukiwanie/liniowe.py) 
+2. [Wyszukiwanie przez połowienie/binarne](Wyszukiwanie/binarne.py) 
+(do znajdowania elementów w zbiorze, sortowania przez wstawianie, przybliżonego rozwiązywania równań)
 1. Rozkładanie na czynniki pierwsze
 2. Działania w innych systemach liczbowych
 3. Znajdowanie podciągów (najdłuższego spójnego, spójnego o największej sumie)
