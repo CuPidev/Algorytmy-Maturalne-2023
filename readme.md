@@ -17,13 +17,18 @@
 4. [Działania w innych systemach liczbowych](Liczbowe/systemy_liczbowe.py)
 5. Znajdowanie podciągów (najdłuższego spójnego, spójnego o największej sumie)
 6. Odwrotna notacja polska
+
+# [Algorytmy Sortowania](/Sortowanie/)
+1. [Metodą bąbelkową](Sortowanie/babelkowe.py)
+
+
 ==============================================================
 Objaśnia, a także porównuje, wykorzystując przy tym przykłady problemów i algorytmów.
-2. Rekurencja
-3. Dziel i zwyciężaj
-4. Podejście zachłanne
-5. Programowanie dynamiczne
-6. Stos, Kolejka, Lista (ONP)
+1. Rekurencja
+2. Dziel i zwyciężaj
+3. Podejście zachłanne
+4. Programowanie dynamiczne
+5. Stos, Kolejka, Lista (ONP)
 ==============================================================
 
 2. Systemy liczbowe (zamiany)
@@ -31,7 +36,7 @@ Objaśnia, a także porównuje, wykorzystując przy tym przykłady problemów i 
 4. Porównywanie tekstów
 5. Wyszukiwanie wzorca w tekście metodą naiwną
 6. Szyfrowanie tekstu metodą Cezara i przestawieniową
-7. Porządkowanie ciągu liczb przez wstawianie i metodą bąbelkową
+7. Porządkowanie ciągu liczb przez wstawianie i 
 8. Obliczanie wartości elementów ciągu metodą iteracyjną i rekurencyjną, w tym ciągu Fibonacciego
 9. Metoda wstępująca i zstępująca
 ==============================================================
