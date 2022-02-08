@@ -13,10 +13,10 @@
 1. [Wyszukiwanie liniowe](/Wyszukiwanie/liniowe.py) 
 2. [Wyszukiwanie przez połowienie/binarne](Wyszukiwanie/binarne.py) 
 (do znajdowania elementów w zbiorze, sortowania przez wstawianie, przybliżonego rozwiązywania równań)
-1. Rozkładanie na czynniki pierwsze
-2. Działania w innych systemach liczbowych
-3. Znajdowanie podciągów (najdłuższego spójnego, spójnego o największej sumie)
-4. Odwrotna notacja polska
+3. Rozkładanie na czynniki pierwsze
+4. [Działania w innych systemach liczbowych](Liczbowe/systemy_liczbowe.py)
+5. Znajdowanie podciągów (najdłuższego spójnego, spójnego o największej sumie)
+6. Odwrotna notacja polska
 ==============================================================
 Objaśnia, a także porównuje, wykorzystując przy tym przykłady problemów i algorytmów.
 
