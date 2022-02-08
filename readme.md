@@ -32,12 +32,10 @@ Objaśnia, a także porównuje, wykorzystując przy tym przykłady problemów i 
 4. Programowanie dynamiczne
 5. Stos, Kolejka, Lista (ONP)
 ==============================================================
-
 2. Systemy liczbowe (zamiany)
 3. Działania na ułamkach z wykorzystaniem NWD i NWW
-
 4. Szyfrowanie tekstu metodą Cezara i przestawieniową
-5. Porządkowanie ciągu liczb przez wstawianie i 
+5. Porządkowanie ciągu liczb przez wstawianie 
 6. Obliczanie wartości elementów ciągu metodą iteracyjną i rekurencyjną, w tym ciągu Fibonacciego
 7. Metoda wstępująca i zstępująca
 ==============================================================
