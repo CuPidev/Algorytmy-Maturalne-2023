@@ -23,6 +23,7 @@
 
 ## [Algorytmy na tekstach](/Na_tekstach/)
 1. [Porównywanie tekstów](Na_tekstach/porownanie_tekstow.py)
+2. [Wyszukiwanie wzorca metodą naiwną](Na_tekstach/wzorzec_metoda_naiwna.py)
 
 ==============================================================
 Objaśnia, a także porównuje, wykorzystując przy tym przykłady problemów i algorytmów.
@@ -35,12 +36,11 @@ Objaśnia, a także porównuje, wykorzystując przy tym przykłady problemów i 
 
 2. Systemy liczbowe (zamiany)
 3. Działania na ułamkach z wykorzystaniem NWD i NWW
-4. Porównywanie tekstów
-5. Wyszukiwanie wzorca w tekście metodą naiwną
-6. Szyfrowanie tekstu metodą Cezara i przestawieniową
-7. Porządkowanie ciągu liczb przez wstawianie i 
-8. Obliczanie wartości elementów ciągu metodą iteracyjną i rekurencyjną, w tym ciągu Fibonacciego
-9. Metoda wstępująca i zstępująca
+
+4. Szyfrowanie tekstu metodą Cezara i przestawieniową
+5. Porządkowanie ciągu liczb przez wstawianie i 
+6. Obliczanie wartości elementów ciągu metodą iteracyjną i rekurencyjną, w tym ciągu Fibonacciego
+7. Metoda wstępująca i zstępująca
 ==============================================================
 1. Baza złożona z wielu tabel
 2. Formułowanie kwerend
