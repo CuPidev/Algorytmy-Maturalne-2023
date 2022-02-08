@@ -19,7 +19,6 @@
 6. Odwrotna notacja polska
 ==============================================================
 Objaśnia, a także porównuje, wykorzystując przy tym przykłady problemów i algorytmów.
-
 2. Rekurencja
 3. Dziel i zwyciężaj
 4. Podejście zachłanne
