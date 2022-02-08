@@ -2,12 +2,11 @@
 1. [Algorytm Euklidesa](Liczbowe/euklides.py)
 2. [Wyszukiwanie binarne](Wyszukiwanie/binarne.py)
 3. [Sito Eratostenesa](Liczbowe/sito_eratostenesa.py)
-4. Sortowanie przez scalanie
-5. Wyznaczanie miejsc zerowych funkcji metodą połowienia
-6. Przybliżanie wartości pierwiastka kwadratowego
-7. [Schemat Hornera](Liczbowe/horner.py)
-8. [Szybkie potęgowanie](Liczbowe/szybkie_potegowanie.py)
-9. [Badanie pierwszości liczby](Liczbowe/czy_pierwsza.py)
+4. Wyznaczanie miejsc zerowych funkcji metodą połowienia
+5. Przybliżanie wartości pierwiastka kwadratowego
+6. [Schemat Hornera](Liczbowe/horner.py)
+7. [Szybkie potęgowanie](Liczbowe/szybkie_potegowanie.py)
+8. [Badanie pierwszości liczby](Liczbowe/czy_pierwsza.py)
 ==============================================================
 ## [Algorytmy Wyszukiwania](/Wyszukiwanie)
 1. [Wyszukiwanie liniowe](/Wyszukiwanie/liniowe.py) 
@@ -20,7 +19,7 @@
 
 ## [Algorytmy Sortowania](/Sortowanie/)
 1. [Metodą bąbelkową](Sortowanie/babelkowe.py)
-
+2. [Sortowanie przez scalanie](Sortowanie/przez_scalanie.py)
 ## [Algorytmy na tekstach](/Na_tekstach/)
 1. [Porównywanie tekstów](Na_tekstach/porownanie_tekstow.py)
 2. [Wyszukiwanie wzorca metodą naiwną](Na_tekstach/wzorzec_metoda_naiwna.py)
