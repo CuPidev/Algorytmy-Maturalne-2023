@@ -9,16 +9,17 @@
 8. [Badanie pierwszości liczby](Liczbowe/czy_pierwsza.py)
 9. Badanie położenia punktu względem prostej
 10. Badanie przynależności punktu do odcinka
-==============================================================
+11. Rozkładanie na czynniki pierwsze
+12. Zamiany wyrażenia na postać w odwrotnej notacji polskiej i obliczanie jego
+wartości na podstawie tej postaci
+13. Wykonywania działań na liczbach w systemach innych niż dziesiętny
+14. Działania na ułamkach z wykorzystaniem NWD i NWW
 ## [**Algorytmy Wyszukiwania**](/Wyszukiwanie)
 1. [Wyszukiwanie liniowe](/Wyszukiwanie/liniowe.py) 
 2. [Wyszukiwanie przez połowienie/binarne](Wyszukiwanie/binarne.py) 
 (do znajdowania elementów w zbiorze, sortowania przez wstawianie, przybliżonego rozwiązywania równań)
-3. Rozkładanie na czynniki pierwsze
 4. [Działania w innych systemach liczbowych](Liczbowe/systemy_liczbowe.py)
 5. Znajdowanie podciągów (najdłuższego spójnego, spójnego o największej sumie)
-6. Odwrotna notacja polska
-
 ## [Algorytmy Sortowania](/Sortowanie/)
 1. [Metodą bąbelkową](Sortowanie/babelkowe.py)
 2. [Sortowanie przez scalanie](Sortowanie/przez_scalanie.py)
@@ -31,20 +32,24 @@
 3. Wyszukiwanie jednocześnie elementu najmniejszego i największego
 ## [Rekurencja]
 1. Tworzenie fraktali; zbiór Cantora, drzewo binarne, dywan Sierpińskiego, płatek Kocha
+
+## [Objaśnienie, porównywanie na przykładach]
+1. Wyszukiwanie liniowe i przez połowienie (do znajdowania
+elementów w zbiorze, sortowania przez wstawianie, przybliżonego
+rozwiązywania równań)
+2. Rekurencja (generowanie ciągów liczb, potęgowanie, sortowanie liczb,
+generowanie fraktali)
+3. Metoda dziel i zwyciężaj (sortowanie przez scalanie i szybkie)
+4. Podejście zachłanne
+5. Programowanie dynamiczne
+6. Struktury dynamiczne: stos, kolejka, lista (do realizacji algorytmu: ONP)
 ==============================================================
-Objaśnia, a także porównuje, wykorzystując przy tym przykłady problemów i algorytmów.
-1. Rekurencja
-2. Dziel i zwyciężaj
-3. Podejście zachłanne
-4. Programowanie dynamiczne
-5. Stos, Kolejka, Lista (ONP)
-==============================================================
-2. Systemy liczbowe (zamiany)
-3. Działania na ułamkach z wykorzystaniem NWD i NWW
-4. Szyfrowanie tekstu metodą Cezara i przestawieniową
-5. Porządkowanie ciągu liczb przez wstawianie 
-6. Obliczanie wartości elementów ciągu metodą iteracyjną i rekurencyjną, w tym ciągu Fibonacciego
-7. Metoda wstępująca i zstępująca
+1. Systemy liczbowe (zamiany)
+2. Działania na ułamkach z wykorzystaniem NWD i NWW
+3. Szyfrowanie tekstu metodą Cezara i przestawieniową
+4. Porządkowanie ciągu liczb przez wstawianie 
+5. Obliczanie wartości elementów ciągu metodą iteracyjną i rekurencyjną, w tym ciągu Fibonacciego
+6. Metoda wstępująca i zstępująca
 ==============================================================
 1. Baza złożona z wielu tabel
 2. Formułowanie kwerend
@@ -68,29 +73,13 @@ uporządkowanym metodą binarnego wyszukiwania,
 
 2. wykorzystuje znane sobie algorytmy przy rozwiązywaniu i programowaniu
 rozwiązań następujących problemów:
-a) rozkładania liczby na czynniki pierwsze,
-b) wykonywania działań na liczbach w systemach innych niż dziesiętny,
+
 c) znajdowania w ciągu podciągów o różnorodnych własnościach, np.
 najdłuższego spójnego podciągu niemalejącego, spójnego podciągu
 o największej sumie,
-d) zamiany wyrażenia na postać w odwrotnej notacji polskiej i obliczanie jego
-wartości na podstawie tej postaci,
 
 
-3. Objaśnia, a także porównuje podstawowe metody i techniki algorytmiczne oraz
-struktury danych, wykorzystując przy tym przykłady problemów i algorytmów,
-w szczególności:
-a) wyszukiwanie elementów liniowe i przez połowienie (do znajdowania
-elementów w zbiorze, sortowania przez wstawianie, przybliżonego
-rozwiązywania równań),
-b) rekurencję (do generowania ciągów liczb, potęgowania, sortowania liczb,
-generowania fraktali),
-c) metodę dziel i zwyciężaj (sortowanie przez scalanie i szybkie),
-d) podejście zachłanne,
-e) programowanie dynamiczne,
-f) struktury dynamiczne: stos, kolejka, lista (do realizacji algorytmu: ONP)
-
-4. 1) planuje kolejne kroki rozwiązywania problemu, z uwzględnieniem
+1. 1) planuje kolejne kroki rozwiązywania problemu, z uwzględnieniem
 podstawowych etapów myślenia komputacyjnego (określenie problemu,
 definicja modeli i pojęć, znalezienie rozwiązania, zaprogramowanie i testowanie
 rozwiązania).
@@ -98,8 +87,7 @@ rozwiązania).
 w szkole podstawowej oraz algorytmy:
 168
 a) na liczbach: badania pierwszości liczby, zamiany reprezentacji liczb między
-pozycyjnymi systemami liczbowymi, działań na ułamkach z wykorzystaniem
-NWD i NWW,
+pozycyjnymi systemami liczbowymi, ,
 b) na tekstach: porównywania tekstów, wyszukiwania wzorca w tekście metodą
 naiwną, szyfrowania tekstu metodą Cezara i przestawieniową,
 c) porządkowania ciągu liczb: przez wstawianie i metodą bąbelkową,
