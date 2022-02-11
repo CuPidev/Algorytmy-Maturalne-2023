@@ -55,11 +55,11 @@ Objaśnia, a także porównuje, wykorzystując przy tym przykłady problemów i 
 1. **Zapisuje za pomocą listy kroków, schematu blokowego lub pseudokodu,
 i implementuje w wybranym języku programowania, algorytmy poznane na
 wcześniejszych etapach oraz algorytmy:** 
- 1.  algorytm Euklidesa w wersji iteracyjnej i rekurencyjnej wraz
+   1.  algorytm Euklidesa w wersji iteracyjnej i rekurencyjnej wraz
 z zastosowaniami,
- 2. znajdowania określonego elementu w zbiorze: elementu w zbiorze
+   2. znajdowania określonego elementu w zbiorze: elementu w zbiorze
 uporządkowanym metodą binarnego wyszukiwania,
-c) generowania liczb pierwszych metodą sita Eratostenesa,
+   3. generowania liczb pierwszych metodą sita Eratostenesa,
 d) sortowania ciągu liczb przez scalanie,
 e) wyznaczania miejsc zerowych funkcji metodą połowienia,
 f) obliczania przybliżonej wartości pierwiastka kwadratowego,
