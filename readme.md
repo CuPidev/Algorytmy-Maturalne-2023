@@ -44,6 +44,7 @@ generowanie fraktali)
 5. Programowanie dynamiczne
 6. Struktury dynamiczne: stos, kolejka, lista (do realizacji algorytmu: ONP)
 ==============================================================
+## 
 1. Systemy liczbowe (zamiany)
 2. Działania na ułamkach z wykorzystaniem NWD i NWW
 3. Szyfrowanie tekstu metodą Cezara i przestawieniową
