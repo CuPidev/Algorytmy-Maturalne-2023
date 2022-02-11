@@ -90,8 +90,7 @@ d) podejście zachłanne,
 e) programowanie dynamiczne,
 f) struktury dynamiczne: stos, kolejka, lista (do realizacji algorytmu: ONP)
 
-
-1) planuje kolejne kroki rozwiązywania problemu, z uwzględnieniem
+4. 1) planuje kolejne kroki rozwiązywania problemu, z uwzględnieniem
 podstawowych etapów myślenia komputacyjnego (określenie problemu,
 definicja modeli i pojęć, znalezienie rozwiązania, zaprogramowanie i testowanie
 rozwiązania).
@@ -113,7 +112,7 @@ algorytmy na podstawie ich gotowych implementacji;
 5) sprawdza poprawność działania algorytmów dla przykładowych danych.
 
 
-projektuje i tworzy rozbudowane programy w procesie rozwiązywania
+5. projektuje i tworzy rozbudowane programy w procesie rozwiązywania
 problemów, wykorzystuje w programach dobrane do algorytmów struktury
 danych, w tym struktury dynamiczne i korzysta z dostępnych bibliotek dla tych
 struktur;
