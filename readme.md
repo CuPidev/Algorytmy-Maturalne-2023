@@ -28,7 +28,7 @@ wartości na podstawie tej postaci
 1. [Porównywanie tekstów](Na_tekstach/porownanie_tekstow.py)
 2. [Wyszukiwanie wzorca metodą naiwną](Na_tekstach/wzorzec_metoda_naiwna.py)
 ## [Algorytmy na zbiorach](/Zbiory/)
-1. Znajdowanie lidera
+1. [Znajdowanie lidera](Zbiory/lider.py)
 2. Znajdowanie idola
 3. Wyszukiwanie jednocześnie elementu najmniejszego i największego
 ## [Rekurencja]
