@@ -1,4 +1,4 @@
-## [Algorytmy na liczbach](/Liczbowe)
+## [**Algorytmy na liczbach**](/Liczbowe)
 1. [Algorytm Euklidesa](Liczbowe/euklides.py)
 2. [Wyszukiwanie binarne](Wyszukiwanie/binarne.py)
 3. [Sito Eratostenesa](Liczbowe/sito_eratostenesa.py)
@@ -10,7 +10,7 @@
 9. Badanie położenia punktu względem prostej
 10. Badanie przynależności punktu do odcinka
 ==============================================================
-## [Algorytmy Wyszukiwania](/Wyszukiwanie)
+## [**Algorytmy Wyszukiwania**](/Wyszukiwanie)
 1. [Wyszukiwanie liniowe](/Wyszukiwanie/liniowe.py) 
 2. [Wyszukiwanie przez połowienie/binarne](Wyszukiwanie/binarne.py) 
 (do znajdowania elementów w zbiorze, sortowania przez wstawianie, przybliżonego rozwiązywania równań)
