@@ -55,10 +55,9 @@ Objaśnia, a także porównuje, wykorzystując przy tym przykłady problemów i 
 1. **Zapisuje za pomocą listy kroków, schematu blokowego lub pseudokodu,
 i implementuje w wybranym języku programowania, algorytmy poznane na
 wcześniejszych etapach oraz algorytmy:** 
-170
-a) algorytm Euklidesa w wersji iteracyjnej i rekurencyjnej wraz
+ 1.  algorytm Euklidesa w wersji iteracyjnej i rekurencyjnej wraz
 z zastosowaniami,
-b) znajdowania określonego elementu w zbiorze: elementu w zbiorze
+ 2. znajdowania określonego elementu w zbiorze: elementu w zbiorze
 uporządkowanym metodą binarnego wyszukiwania,
 c) generowania liczb pierwszych metodą sita Eratostenesa,
 d) sortowania ciągu liczb przez scalanie,
@@ -68,7 +67,7 @@ g) obliczania wartości wielomianu za pomocą schematu Hornera,
 h) szybkiego potęgowania liczb w wersji iteracyjnej i rekurencyjnej,
 
 
-2. wykorzystuje znane sobie algorytmy przy rozwiązywaniu i programowaniu
+1. wykorzystuje znane sobie algorytmy przy rozwiązywaniu i programowaniu
 rozwiązań następujących problemów:
 a) rozkładania liczby na czynniki pierwsze,
 b) wykonywania działań na liczbach w systemach innych niż dziesiętny,
