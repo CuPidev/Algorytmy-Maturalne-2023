@@ -52,9 +52,9 @@ Objaśnia, a także porównuje, wykorzystując przy tym przykłady problemów i 
 4. SQL do wyszukiwania i modyfikowania informacji
 
 !Testowe!
-1. zapisuje za pomocą listy kroków, schematu blokowego lub pseudokodu,
+1. **Zapisuje za pomocą listy kroków, schematu blokowego lub pseudokodu,
 i implementuje w wybranym języku programowania, algorytmy poznane na
-wcześniejszych etapach oraz algorytmy:
+wcześniejszych etapach oraz algorytmy:** 
 170
 a) algorytm Euklidesa w wersji iteracyjnej i rekurencyjnej wraz
 z zastosowaniami,
