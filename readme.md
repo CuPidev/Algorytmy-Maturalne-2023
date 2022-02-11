@@ -27,6 +27,8 @@ wartości na podstawie tej postaci
 ## [Algorytmy na tekstach](/Na_tekstach/)
 1. [Porównywanie tekstów](Na_tekstach/porownanie_tekstow.py)
 2. [Wyszukiwanie wzorca metodą naiwną](Na_tekstach/wzorzec_metoda_naiwna.py)
+3. Szyfrowanie tekstu metodą Cezara
+4. Szyfrowanie tekstu metodą przestawieniową
 ## [Algorytmy na zbiorach](/Zbiory/)
 1. [Znajdowanie lidera](Zbiory/lider.py)
 2. Znajdowanie idola
@@ -83,22 +85,13 @@ definicja modeli i pojęć, znalezienie rozwiązania, zaprogramowanie i testowan
 rozwiązania).
 2) stosuje przy rozwiązywaniu problemów z różnych dziedzin algorytmy poznane
 w szkole podstawowej oraz algorytmy:
-168
-a) na liczbach: badania pierwszości liczby, zamiany reprezentacji liczb między
-pozycyjnymi systemami liczbowymi, ,
-b) na tekstach: porównywania tekstów, wyszukiwania wzorca w tekście metodą
-naiwną, szyfrowania tekstu metodą Cezara i przestawieniową,
 c) porządkowania ciągu liczb: przez wstawianie i metodą bąbelkową,
 d) obliczania wartości elementów ciągu metodą iteracyjną i rekurencyjną, w tym
 wartości elementów ciągu Fibonacciego.
-3) wyróżnia w problemie podproblemy i charakteryzuje: metodę połowienia,
-stosuje podejście zachłanne i rekurencję;
-4) porównuje działanie różnych algorytmów dla wybranego problemu, analizuje
-algorytmy na podstawie ich gotowych implementacji;
-5) sprawdza poprawność działania algorytmów dla przykładowych danych.
 
 
-5. projektuje i tworzy rozbudowane programy w procesie rozwiązywania
+
+1. projektuje i tworzy rozbudowane programy w procesie rozwiązywania
 problemów, wykorzystuje w programach dobrane do algorytmów struktury
 danych, w tym struktury dynamiczne i korzysta z dostępnych bibliotek dla tych
 struktur;
