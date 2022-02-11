@@ -23,6 +23,7 @@ wartości na podstawie tej postaci
 ## [Algorytmy Sortowania](/Sortowanie/)
 1. [Metodą bąbelkową](Sortowanie/babelkowe.py)
 2. [Sortowanie przez scalanie](Sortowanie/przez_scalanie.py)
+3. [Sortowanie przez wstawianie](Sortowanie/przez_wstawianie.py)
 ## [Algorytmy na tekstach](/Na_tekstach/)
 1. [Porównywanie tekstów](Na_tekstach/porownanie_tekstow.py)
 2. [Wyszukiwanie wzorca metodą naiwną](Na_tekstach/wzorzec_metoda_naiwna.py)
@@ -43,14 +44,10 @@ generowanie fraktali)
 4. Podejście zachłanne
 5. Programowanie dynamiczne
 6. Struktury dynamiczne: stos, kolejka, lista (do realizacji algorytmu: ONP)
-==============================================================
 ## 
-1. Systemy liczbowe (zamiany)
-2. Działania na ułamkach z wykorzystaniem NWD i NWW
-3. Szyfrowanie tekstu metodą Cezara i przestawieniową
-4. Porządkowanie ciągu liczb przez wstawianie 
-5. Obliczanie wartości elementów ciągu metodą iteracyjną i rekurencyjną, w tym ciągu Fibonacciego
-6. Metoda wstępująca i zstępująca
+1. Szyfrowanie tekstu metodą Cezara i przestawieniową
+2. Obliczanie wartości elementów ciągu metodą iteracyjną i rekurencyjną, w tym ciągu Fibonacciego
+3. Metoda wstępująca i zstępująca
 ==============================================================
 1. Baza złożona z wielu tabel
 2. Formułowanie kwerend
