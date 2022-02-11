@@ -60,14 +60,13 @@ z zastosowaniami,
    2. znajdowania określonego elementu w zbiorze: elementu w zbiorze
 uporządkowanym metodą binarnego wyszukiwania,
    3. generowania liczb pierwszych metodą sita Eratostenesa,
-d) sortowania ciągu liczb przez scalanie,
-e) wyznaczania miejsc zerowych funkcji metodą połowienia,
-f) obliczania przybliżonej wartości pierwiastka kwadratowego,
-g) obliczania wartości wielomianu za pomocą schematu Hornera,
-h) szybkiego potęgowania liczb w wersji iteracyjnej i rekurencyjnej,
+   4. sortowania ciągu liczb przez scalanie,
+   5. wyznaczania miejsc zerowych funkcji metodą połowienia,
+   6. obliczania przybliżonej wartości pierwiastka kwadratowego,
+   7. obliczania wartości wielomianu za pomocą schematu Hornera,
+   8. szybkiego potęgowania liczb w wersji iteracyjnej i rekurencyjnej,
 
-
-1. wykorzystuje znane sobie algorytmy przy rozwiązywaniu i programowaniu
+2. wykorzystuje znane sobie algorytmy przy rozwiązywaniu i programowaniu
 rozwiązań następujących problemów:
 a) rozkładania liczby na czynniki pierwsze,
 b) wykonywania działań na liczbach w systemach innych niż dziesiętny,
