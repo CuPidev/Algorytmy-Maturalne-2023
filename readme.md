@@ -52,7 +52,7 @@ Objaśnia, a także porównuje, wykorzystując przy tym przykłady problemów i 
 4. SQL do wyszukiwania i modyfikowania informacji
 
 !Testowe!
-zapisuje za pomocą listy kroków, schematu blokowego lub pseudokodu,
+1. zapisuje za pomocą listy kroków, schematu blokowego lub pseudokodu,
 i implementuje w wybranym języku programowania, algorytmy poznane na
 wcześniejszych etapach oraz algorytmy:
 170
