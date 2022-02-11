@@ -50,3 +50,87 @@ Objaśnia, a także porównuje, wykorzystując przy tym przykłady problemów i 
 2. Formułowanie kwerend
 3. Tworzenie i modyfikowanie formularze oraz raporty
 4. SQL do wyszukiwania i modyfikowania informacji
+
+!Testowe!
+zapisuje za pomocą listy kroków, schematu blokowego lub pseudokodu,
+i implementuje w wybranym języku programowania, algorytmy poznane na
+wcześniejszych etapach oraz algorytmy:
+170
+a) algorytm Euklidesa w wersji iteracyjnej i rekurencyjnej wraz
+z zastosowaniami,
+b) znajdowania określonego elementu w zbiorze: elementu w zbiorze
+uporządkowanym metodą binarnego wyszukiwania,
+c) generowania liczb pierwszych metodą sita Eratostenesa,
+d) sortowania ciągu liczb przez scalanie,
+e) wyznaczania miejsc zerowych funkcji metodą połowienia,
+f) obliczania przybliżonej wartości pierwiastka kwadratowego,
+g) obliczania wartości wielomianu za pomocą schematu Hornera,
+h) szybkiego potęgowania liczb w wersji iteracyjnej i rekurencyjnej,
+
+
+2. wykorzystuje znane sobie algorytmy przy rozwiązywaniu i programowaniu
+rozwiązań następujących problemów:
+a) rozkładania liczby na czynniki pierwsze,
+b) wykonywania działań na liczbach w systemach innych niż dziesiętny,
+c) znajdowania w ciągu podciągów o różnorodnych własnościach, np.
+najdłuższego spójnego podciągu niemalejącego, spójnego podciągu
+o największej sumie,
+d) zamiany wyrażenia na postać w odwrotnej notacji polskiej i obliczanie jego
+wartości na podstawie tej postaci,
+
+
+3. Objaśnia, a także porównuje podstawowe metody i techniki algorytmiczne oraz
+struktury danych, wykorzystując przy tym przykłady problemów i algorytmów,
+w szczególności:
+a) wyszukiwanie elementów liniowe i przez połowienie (do znajdowania
+elementów w zbiorze, sortowania przez wstawianie, przybliżonego
+rozwiązywania równań),
+b) rekurencję (do generowania ciągów liczb, potęgowania, sortowania liczb,
+generowania fraktali),
+c) metodę dziel i zwyciężaj (sortowanie przez scalanie i szybkie),
+d) podejście zachłanne,
+e) programowanie dynamiczne,
+f) struktury dynamiczne: stos, kolejka, lista (do realizacji algorytmu: ONP)
+
+
+1) planuje kolejne kroki rozwiązywania problemu, z uwzględnieniem
+podstawowych etapów myślenia komputacyjnego (określenie problemu,
+definicja modeli i pojęć, znalezienie rozwiązania, zaprogramowanie i testowanie
+rozwiązania).
+2) stosuje przy rozwiązywaniu problemów z różnych dziedzin algorytmy poznane
+w szkole podstawowej oraz algorytmy:
+168
+a) na liczbach: badania pierwszości liczby, zamiany reprezentacji liczb między
+pozycyjnymi systemami liczbowymi, działań na ułamkach z wykorzystaniem
+NWD i NWW,
+b) na tekstach: porównywania tekstów, wyszukiwania wzorca w tekście metodą
+naiwną, szyfrowania tekstu metodą Cezara i przestawieniową,
+c) porządkowania ciągu liczb: przez wstawianie i metodą bąbelkową,
+d) obliczania wartości elementów ciągu metodą iteracyjną i rekurencyjną, w tym
+wartości elementów ciągu Fibonacciego.
+3) wyróżnia w problemie podproblemy i charakteryzuje: metodę połowienia,
+stosuje podejście zachłanne i rekurencję;
+4) porównuje działanie różnych algorytmów dla wybranego problemu, analizuje
+algorytmy na podstawie ich gotowych implementacji;
+5) sprawdza poprawność działania algorytmów dla przykładowych danych.
+
+
+projektuje i tworzy rozbudowane programy w procesie rozwiązywania
+problemów, wykorzystuje w programach dobrane do algorytmów struktury
+danych, w tym struktury dynamiczne i korzysta z dostępnych bibliotek dla tych
+struktur;
+2) stosuje zasady programowania strukturalnego w rozwiązywaniu problemów;
+3) sprawnie posługuje się zintegrowanym środowiskiem programistycznym przy
+pisaniu, uruchamianiu i testowaniu programów;
+4) przygotowując opracowania rozwiązań złożonych problemów, posługuje się
+wybranymi aplikacjami w stopniu zaawansowanym:
+a) stosuje właściwe formaty plików graficznych,
+b) stosuje zaawansowane funkcje arkusza kalkulacyjnego w zależności od
+rodzaju danych, definiuje makropolecenia, zna możliwości wbudowanego
+języka programowania,
+c) projektuje i tworzy relacyjną bazę złożoną z wielu tabel oraz sieciową
+aplikację bazodanową dla danych związanych z rozwiązywanym problemem,
+formułuje kwerendy, tworzy i modyfikuje formularze oraz raporty, stosuje
+język SQL do wyszukiwania informacji w bazie i do jej modyfikacji,
+uwzględnia kwestie integralności danych, bezpieczeństwa i ochrony danych
+w bazie,
