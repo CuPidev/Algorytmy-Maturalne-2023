@@ -12,4 +12,4 @@ def euklides2(a,b):
     return a
 
 print(euklides(8, 12))
-print(euklides(8,12))
+print(euklides2(8,12))
