@@ -62,14 +62,10 @@ i implementuje w wybranym języku programowania, algorytmy poznane na
 wcześniejszych etapach oraz algorytmy:** 
    1.  algorytm Euklidesa w wersji iteracyjnej i rekurencyjnej wraz
 z zastosowaniami,
-   2. znajdowania określonego elementu w zbiorze: elementu w zbiorze
-uporządkowanym metodą binarnego wyszukiwania,
-   3. generowania liczb pierwszych metodą sita Eratostenesa,
-   4. sortowania ciągu liczb przez scalanie,
+   
+   
    5. wyznaczania miejsc zerowych funkcji metodą połowienia,
    6. obliczania przybliżonej wartości pierwiastka kwadratowego,
-   7. obliczania wartości wielomianu za pomocą schematu Hornera,
-   8. szybkiego potęgowania liczb w wersji iteracyjnej i rekurencyjnej,
 
 2. wykorzystuje znane sobie algorytmy przy rozwiązywaniu i programowaniu
 rozwiązań następujących problemów:
@@ -91,13 +87,7 @@ wartości elementów ciągu Fibonacciego.
 
 
 
-1. projektuje i tworzy rozbudowane programy w procesie rozwiązywania
-problemów, wykorzystuje w programach dobrane do algorytmów struktury
-danych, w tym struktury dynamiczne i korzysta z dostępnych bibliotek dla tych
-struktur;
 2) stosuje zasady programowania strukturalnego w rozwiązywaniu problemów;
-3) sprawnie posługuje się zintegrowanym środowiskiem programistycznym przy
-pisaniu, uruchamianiu i testowaniu programów;
 4) przygotowując opracowania rozwiązań złożonych problemów, posługuje się
 wybranymi aplikacjami w stopniu zaawansowanym:
 a) stosuje właściwe formaty plików graficznych,
