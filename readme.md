@@ -33,6 +33,8 @@ wartości na podstawie tej postaci
 1. [Znajdowanie lidera](Zbiory/lider.py)
 2. Znajdowanie idola
 3. Wyszukiwanie jednocześnie elementu najmniejszego i największego
+4. Ciąg fibonnaciego
+5. Obliczanie wartości ciągu iteracyjnie i rekurencyjnej
 ## [Rekurencja]
 1. Tworzenie fraktali; zbiór Cantora, drzewo binarne, dywan Sierpińskiego, płatek Kocha
 
@@ -73,19 +75,6 @@ rozwiązań następujących problemów:
 c) znajdowania w ciągu podciągów o różnorodnych własnościach, np.
 najdłuższego spójnego podciągu niemalejącego, spójnego podciągu
 o największej sumie,
-
-
-1. 1) planuje kolejne kroki rozwiązywania problemu, z uwzględnieniem
-podstawowych etapów myślenia komputacyjnego (określenie problemu,
-definicja modeli i pojęć, znalezienie rozwiązania, zaprogramowanie i testowanie
-rozwiązania).
-2) stosuje przy rozwiązywaniu problemów z różnych dziedzin algorytmy poznane
-w szkole podstawowej oraz algorytmy:
-c) porządkowania ciągu liczb: przez wstawianie i metodą bąbelkową,
-d) obliczania wartości elementów ciągu metodą iteracyjną i rekurencyjną, w tym
-wartości elementów ciągu Fibonacciego.
-
-
 
 2) stosuje zasady programowania strukturalnego w rozwiązywaniu problemów;
 4) przygotowując opracowania rozwiązań złożonych problemów, posługuje się
