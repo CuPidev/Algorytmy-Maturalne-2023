@@ -38,7 +38,11 @@ wartości na podstawie tej postaci
 6. Najdłuższy spójny podciąg niemalejący
 7. Spójny podciąg o największej sumie
 ## [Rekurencja]
-1. Tworzenie fraktali; zbiór Cantora, drzewo binarne, dywan Sierpińskiego, płatek Kocha
+1. Tworzenie fraktali
+2. Zbiór Cantora 
+3. Drzewo binarne
+4. Dywan Sierpińskiego 
+5. Płatek Kocha
 
 ## [Objaśnienie, porównywanie na przykładach]
 1. Wyszukiwanie liniowe i przez połowienie (do znajdowania
