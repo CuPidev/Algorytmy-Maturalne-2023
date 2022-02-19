@@ -27,7 +27,7 @@ wartości na podstawie tej postaci
 ## [Algorytmy na tekstach](/Na_tekstach/)
 1. [Porównywanie tekstów](Na_tekstach/porownanie_tekstow.py)
 2. [Wyszukiwanie wzorca metodą naiwną](Na_tekstach/wzorzec_metoda_naiwna.py)
-3. Szyfrowanie tekstu metodą Cezara
+3. [Szyfrowanie tekstu metodą Cezara](/Na_tekstach/szyfr_cezara.py)
 4. Szyfrowanie tekstu metodą przestawieniową
 ## [Algorytmy na zbiorach](/Zbiory/)
 1. [Znajdowanie lidera](Zbiory/lider.py)
@@ -55,9 +55,8 @@ generowanie fraktali)
 5. Programowanie dynamiczne
 6. Struktury dynamiczne: stos, kolejka, lista (do realizacji algorytmu: ONP)
 ## 
-1. Szyfrowanie tekstu metodą Cezara i przestawieniową
-2. Obliczanie wartości elementów ciągu metodą iteracyjną i rekurencyjną, w tym ciągu Fibonacciego
-3. Metoda wstępująca i zstępująca
+1. Obliczanie wartości elementów ciągu metodą iteracyjną i rekurencyjną, w tym ciągu Fibonacciego
+2. Metoda wstępująca i zstępująca
 ## Excel
 Stosuje zaawansowane funkcje arkusza kalkulacyjnego w zależności od
 rodzaju danych, definiuje makropolecenia, zna możliwości wbudowanego
