@@ -28,7 +28,7 @@ wartości na podstawie tej postaci
 1. [Porównywanie tekstów](Na_tekstach/porownanie_tekstow.py)
 2. [Wyszukiwanie wzorca metodą naiwną](Na_tekstach/wzorzec_metoda_naiwna.py)
 3. [Szyfrowanie tekstu metodą Cezara](/Na_tekstach/szyfr_cezara.py)
-4. Szyfrowanie tekstu metodą przestawieniową
+4. [Szyfrowanie tekstu metodą przestawieniową](/Na_tekstach/szyfr_przestawieniowy.py)
 ## [Algorytmy na zbiorach](/Zbiory/)
 1. [Znajdowanie lidera](Zbiory/lider.py)
 2. Znajdowanie idola
