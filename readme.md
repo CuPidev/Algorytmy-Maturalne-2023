@@ -35,6 +35,8 @@ wartości na podstawie tej postaci
 3. Wyszukiwanie jednocześnie elementu najmniejszego i największego
 4. Ciąg fibonnaciego
 5. Obliczanie wartości ciągu iteracyjnie i rekurencyjnej
+6. Najdłuższy spójny podciąg niemalejący
+7. Spójny podciąg o największej sumie
 ## [Rekurencja]
 1. Tworzenie fraktali; zbiór Cantora, drzewo binarne, dywan Sierpińskiego, płatek Kocha
 
@@ -52,40 +54,20 @@ generowanie fraktali)
 1. Szyfrowanie tekstu metodą Cezara i przestawieniową
 2. Obliczanie wartości elementów ciągu metodą iteracyjną i rekurencyjną, w tym ciągu Fibonacciego
 3. Metoda wstępująca i zstępująca
-==============================================================
-1. Baza złożona z wielu tabel
-2. Formułowanie kwerend
-3. Tworzenie i modyfikowanie formularze oraz raporty
-4. SQL do wyszukiwania i modyfikowania informacji
-
-!Testowe!
-1. **Zapisuje za pomocą listy kroków, schematu blokowego lub pseudokodu,
-i implementuje w wybranym języku programowania, algorytmy poznane na
-wcześniejszych etapach oraz algorytmy:** 
-   1.  algorytm Euklidesa w wersji iteracyjnej i rekurencyjnej wraz
-z zastosowaniami,
-   
-   
-   5. wyznaczania miejsc zerowych funkcji metodą połowienia,
-   6. obliczania przybliżonej wartości pierwiastka kwadratowego,
-
-2. wykorzystuje znane sobie algorytmy przy rozwiązywaniu i programowaniu
-rozwiązań następujących problemów:
-
-c) znajdowania w ciągu podciągów o różnorodnych własnościach, np.
-najdłuższego spójnego podciągu niemalejącego, spójnego podciągu
-o największej sumie,
-
-2) stosuje zasady programowania strukturalnego w rozwiązywaniu problemów;
-4) przygotowując opracowania rozwiązań złożonych problemów, posługuje się
-wybranymi aplikacjami w stopniu zaawansowanym:
-a) stosuje właściwe formaty plików graficznych,
-b) stosuje zaawansowane funkcje arkusza kalkulacyjnego w zależności od
+## Excel
+Stosuje zaawansowane funkcje arkusza kalkulacyjnego w zależności od
 rodzaju danych, definiuje makropolecenia, zna możliwości wbudowanego
-języka programowania,
-c) projektuje i tworzy relacyjną bazę złożoną z wielu tabel oraz sieciową
+języka programowania.
+## Bazy danych
+Projektuje i tworzy relacyjną bazę złożoną z wielu tabel oraz sieciową
 aplikację bazodanową dla danych związanych z rozwiązywanym problemem,
 formułuje kwerendy, tworzy i modyfikuje formularze oraz raporty, stosuje
 język SQL do wyszukiwania informacji w bazie i do jej modyfikacji,
 uwzględnia kwestie integralności danych, bezpieczeństwa i ochrony danych
-w bazie,
+w bazie.
+
+
+
+
+
+
