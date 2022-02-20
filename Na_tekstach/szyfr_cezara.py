@@ -5,4 +5,4 @@ def szyfruj_cezar(tekst, klucz):
         wynik += temp
     return wynik
 
-print(szyfruj("piotr", 3))
+print(szyfruj_cezar("piotr", 3))
