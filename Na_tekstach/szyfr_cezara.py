@@ -1,4 +1,4 @@
-def szyfruj(tekst, klucz):
+def szyfruj_cezar(tekst, klucz):
     wynik = ""
     for i in tekst:
         temp = chr(ord(i) + klucz % 26)
